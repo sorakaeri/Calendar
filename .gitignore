@@ -23,4 +23,4 @@ Thumbs.db
 *.log
 
 # 폰트
-.resources/
+resources/
