@@ -21,3 +21,6 @@ Thumbs.db
 
 # 기타
 *.log
+
+# 폰트
+.resources/
